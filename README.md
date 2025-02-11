@@ -1,7 +1,8 @@
 # data_wrangling1
 
-In class/at home: Clean up the document (get rid of unneeded code, make it flow
-more smoothly), consider creating a function to reduce repetitive code, and
-edit the text to reflect what you did. 
+This is a simple file that pulls one book from project 
+Gutenburg, reads it into R and then saves it. 
 
-Also do the same kind of data wrangling and more focused analysis on your data. 
+After you try it with my example, use that model to do the same with one or more works that you would like to work on.
+
+Commit your work, push it to github.
